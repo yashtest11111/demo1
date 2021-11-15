@@ -6,7 +6,7 @@ API_ENDPOINT = "http://115.115.91.60:5432/train"
 
 # data to be sent to api
 data = {
-	"url": "https://github.com/priyankdemo/reg_demo_priyank_yash",
+	"url": "https://github.com/yashtest11111/demo1.git",
 	"branch_name": "master",
 	"user_name": "priy@gmail.com"
 }
