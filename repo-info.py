@@ -4,7 +4,7 @@ import requests
 # defining the api-endpoint
 API_ENDPOINT = "http://115.115.91.60:5432/train"
 
-# data to be sent to api
+# data to b e sent to api
 data = {
 	"url": "https://github.com/yashtest11111/demo1.git",
 	"branch_name": "master",
