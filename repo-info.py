@@ -1,4 +1,4 @@
-# imp orting  the request s library
+# imp orting  the requ est s library
 import requests
 
 # defining the api-endpoint
